@@ -1,0 +1,25 @@
+YOU MAY ADD MORE INSTRUCTIONS/DESCRIPTION IF NEEDED 
+THEN PASTE IN THE ANTIGRAVITY CHAT
+--------------------------------------------
+
+Task :(COMPLETE ALL THE TASKS LISTED BELOW)
+
+1. Generate a news report for the topic following the guidelines :
+    - use industry_news.md present in the same directory to gather information
+    - [ANY SPECIFIC INSTRUCTIONS]
+
+2. Generate a Youtube Video Script for the topic following the guidelines :
+    - use youtube_video_script.md present in the same directory
+    - use the generated news report to generate the script
+    - give script in separate files
+    - [ANY SPECIFIC INSTRUCTIONS]
+
+3. Generate a tweet for the topic following the guidelines :
+    - use tweet_cli_prompt.md present in the same directory
+    - use the generated news report to generate the tweet
+    - give tweets in separate files
+
+4. Generate a Linkedin Post for the topic following the guidelines :
+    - use linkedin_post.md present in the same directory
+    - use the generated news report to generate the post
+    - give linkedin post in separate files

@@ -1,0 +1,16 @@
+Just paste the framework name in the below given prompt 
+YOU MAY ADD MORE INSTRUCTIONS/DESCRIPTION IF NEEDED 
+THEN PASTE IN THE ANTIGRAVITY CHAT
+--------------------------------------------
+
+Task :(COMPLETE ALL THE TASKS LISTED BELOW)
+
+1. Generate a coloab notebook for the framework following the guidelines :
+    - use framework_release.md present in the same directory to gather information
+    - [ANY SPECIFIC INSTRUCTIONS]
+
+2. Generate a tweet for the framework following the guidelines :
+    - use tweet_cli_prompt.md present in the same directory
+    - use the generated news report to generate the tweet
+    - give tweets in separate files
+

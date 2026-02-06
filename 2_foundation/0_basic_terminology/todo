@@ -1,0 +1,21 @@
+JUST Enter THE TOPIC IN THE BELOW GIVEN PROMPT 
+YOU MAY ADD MORE INSTRUCTIONS/DESCRIPTION IF NEEDED 
+THEN PASTE IN THE ANTIGRAVITY CHAT
+--------------------------------------------
+
+TOPIC : [paste the terminology]
+
+Task :(COMPLETE ALL THE TASKS LISTED BELOW)
+
+1. Generate a youtube_video_script, tweet for the topic following the guidelines :
+    - use content.md present in the same directory
+    - [ANY SPECIFIC INSTRUCTIONS]
+
+2. Generate a Linkedin Post for the topic following the guidelines :
+    - use content.md present in the same directory
+    - use the generated research content to generate the post
+    - give linkedin post in separate files
+
+3. Generate a NOTEBOOK for the topic following the guidelines :  (ONLY IF HANDS ON DEMO IS POSSIBLE  OR EVEN REMOVE THIS LINE)
+    - use content.md present in the same directory
+    - give notebook in separate files
